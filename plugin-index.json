@@ -1,0 +1,16 @@
+{
+  "plugins": {
+    "todoist": {
+      "path": "todoist"
+    },
+    "location": {
+      "path": "location"
+    },
+    "pihole": {
+      "path": "pihole"
+    },
+    "fitbit": {
+      "path": "fitbit"
+    }
+  }
+}
