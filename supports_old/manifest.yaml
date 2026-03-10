@@ -1,4 +1,4 @@
-name: A random Test Plugin
+name: New Name
 description: Create goals based on your Todoist tasks
 dataPlugin:
   exports:
