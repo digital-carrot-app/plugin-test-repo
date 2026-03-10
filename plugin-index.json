@@ -13,7 +13,10 @@
       "path": "fitbit"
     },
     "supports_old": {
-      "path": "supports_old"
+      "path": "supports_old",
+      "compatibility": {
+        "v2.0.0": "144ca20806c4df0c9c4cfc744ba4bdbb0c4e0a9a"
+      }
     },
     "new_plugin": {
       "path": "new_plugin"

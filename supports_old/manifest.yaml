@@ -9,7 +9,7 @@ dataPlugin:
       type:
         category: productivity
 pluginConfigSchema: pluginConfig
-minimum_app_version: v1.4.0
+minimum_app_version: v5.0.0
 schemas:
   testOut:
     type_input: object
