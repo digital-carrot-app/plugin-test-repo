@@ -14,6 +14,9 @@
     },
     "supports_old": {
       "path": "supports_old"
+    },
+    "new_plugin": {
+      "path": "new_plugin"
     }
   }
 }
