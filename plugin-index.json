@@ -15,7 +15,9 @@
     "supports_old": {
       "path": "supports_old",
       "compatibility": {
-        "v2.0.0": "144ca20806c4df0c9c4cfc744ba4bdbb0c4e0a9a"
+        "v4.0.0": "51910b16e3371b28d6a20a620666a4434342bb2c",
+        "v2.0.0": "144ca20806c4df0c9c4cfc744ba4bdbb0c4e0a9a",
+        "v1.0.0": "6f50011c8c9a6b3b7a9ea18b0a000bceae4f09d8"
       }
     },
     "new_plugin": {
