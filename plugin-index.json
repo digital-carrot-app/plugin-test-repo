@@ -11,6 +11,9 @@
     },
     "fitbit": {
       "path": "fitbit"
+    },
+    "supports_old": {
+      "path": "supports_old"
     }
   }
 }

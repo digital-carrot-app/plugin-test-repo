@@ -1,0 +1,18 @@
+name: A random Test Plugin
+description: Create goals based on your Todoist tasks
+dataPlugin:
+  exports:
+    tasks:
+      name: Test
+      description: test data source
+      outputSchema: testOut
+      type:
+        category: productivity
+pluginConfigSchema: pluginConfig
+minimum_app_version: v1.4.0
+schemas:
+  testOut:
+    type_input: object
+    properties:
+      hi:
+        type_input: string
